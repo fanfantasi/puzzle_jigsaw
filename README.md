@@ -52,6 +52,9 @@ flutter run
 
 ---
 
+## 🖼️ Video
+![Gameplay](screenshot/video.mp4)
+
 ## 🖼️ Screenshots
 
 | Menu | Gameplay |
