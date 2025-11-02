@@ -56,7 +56,7 @@ flutter run
 
 | Menu | Gameplay |
 |-----------|------------|
-| ![Gameplay](screenshot/game-2.jpg) | ![Gameplay](screenshot/image-1.jpg) |
+| ![Gameplay](screenshot/image-2.jpg) | ![Gameplay](screenshot/image-1.jpg) |
 
 *(Add your own screenshots in `/screenshot` folder)*
 
