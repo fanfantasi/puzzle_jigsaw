@@ -1,4 +1,4 @@
-# 🧩 Puzzle Jigsaw Game
+<img width="411" height="912" alt="Screenshot 2025-11-02 at 12 10 08" src="https://github.com/user-attachments/assets/192d0166-56d0-4e61-8c09-268128946fa1" /># 🧩 Puzzle Jigsaw Game
 
 A fun and interactive **Puzzle Jigsaw Game** built with **Flutter**, where players can drag and drop pieces to complete the picture.  
 Supports multiple levels of difficulty, smooth animations, background music, and engaging sound effects.
@@ -56,7 +56,8 @@ flutter run
 
 | Menu | Gameplay | Completed |
 |------|-----------|------------|
-| ![Menu](screenshots/menu.png) | ![Gameplay](screenshots/gameplay.png) | ![Completed](screenshots/completed.png) |
+| ![Menu](![Uploading Screenshot 2025-11-02 at 12.10.08.png…]
+ | ![Gameplay](screenshots/gameplay.png) | ![Completed](screenshots/completed.png) |
 
 *(Add your own screenshots in `/screenshots` folder)*
 
