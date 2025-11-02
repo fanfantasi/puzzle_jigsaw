@@ -52,8 +52,9 @@ flutter run
 
 ---
 
-## 🎬 Demo
-<video src="screenshot/video.mp4" controls width="600"></video>
+## 🎮 Watch Gameplay
+[![Watch the video](screenshot/image-2.jpg)](https://github.com/user-attachments/assets/90451ba8-2881-40c5-9c5f-d0b260c88a59)
+
 
 
 ## 🖼️ Screenshots
